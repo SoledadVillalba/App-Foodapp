@@ -66,19 +66,6 @@
     color: #777;
 }
 
-.testimonial__subtitle{
-    color: #ff2929;
-}
-
-.testimonial__title span{
-    color: #ff2929;
-
-}
-
-.testimonial__desc{
-    color: #777;
-    line-height: 30px;
-}
 @media only screen and (max-width:768px){
 
     .hero__content {

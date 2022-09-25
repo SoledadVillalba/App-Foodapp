@@ -98,7 +98,7 @@ const Home = () => {
                      <div className="hero__content">
                         <h5 className="mb-3">La forma más simple para pedir comida</h5>
                         <h1 className="mb-4 hero__title">
-                        <span>¿Con hambre?</span> Llamamos <br /> llevamos<span> la comida a tu casa</span></h1>
+                        <span>¿Con hambre?</span> Llamamos, llevamos la comida a tu casa</h1>
 
                         <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Distinctio illum praesentium, consequuntur sit est in?</p>
                         </div>

@@ -62,7 +62,7 @@ const Header =() => {
     justify-content-between">
       <div className="logo">
         <img src={logo} alt="logo" />
-        <h5>Tasty Treat</h5>
+        <h5>Tasty Food</h5>
       </div>
 
       {/* -------------- Menu -------------- */}
